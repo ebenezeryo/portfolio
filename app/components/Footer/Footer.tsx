@@ -82,7 +82,7 @@ function Footer() {
               </Link>
             </div>
             <p className="text-gray-400 text-sm">
-              Let's connect and discuss opportunities in data analytics and web development.
+              Let&apos;s connect and discuss opportunities in data analytics and web development.
             </p>
           </div>
         </div>

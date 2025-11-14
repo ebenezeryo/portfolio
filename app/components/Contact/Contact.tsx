@@ -54,7 +54,7 @@ const Contact = () => {
           <h2 className="text-4xl font-bold mb-4 gradient__text">Get In Touch</h2>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-purple-600 mx-auto mb-6"></div>
           <p className="text-gray-300 max-w-2xl mx-auto">
-            Ready to transform your data into actionable insights? Let's discuss how I can help 
+            Ready to transform your data into actionable insights? Let&apos;s discuss how I can help 
             your business make data-driven decisions.
           </p>
         </div>
@@ -62,7 +62,7 @@ const Contact = () => {
         <div className="grid lg:grid-cols-2 gap-12">
           {/* Contact Information */}
           <div className="animate-fadeInUp">
-            <h3 className="text-2xl font-semibold mb-8">Let's Connect</h3>
+            <h3 className="text-2xl font-semibold mb-8">Let&apos;s Connect</h3>
             <p className="text-gray-300 mb-8 leading-relaxed">
               I am always interested in new opportunities and exciting projects. Whether you need 
               data analysis, business intelligence solutions, or web development services, 

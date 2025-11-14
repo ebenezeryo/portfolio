@@ -53,7 +53,7 @@ const Experience = () => {
           <h2 className="text-4xl font-bold mb-4 gradient__text">Professional Experience</h2>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-purple-600 mx-auto mb-6"></div>
           <p className="text-gray-300 max-w-2xl mx-auto">
-            My journey in data analytics and the impact I've made across different organizations
+            My journey in data analytics and the impact I&apos;ve made across different organizations
           </p>
         </div>
 
