@@ -7,7 +7,7 @@ export const projectData: Project[] = [
     id: 1,
     title: 'RMS Titanic Analysis',
     description: 'This report analyzes the demographics and survival rates of passengers on the RMS Titanic, with a focus on the impact of age and gender on survival rates. Recommendations are provided based on the findings to improve safety measures in maritime travel.',
-    thumbnailUrl: '/Images/placeholder.svg',
+    thumbnailUrl: '',
     link: 'https://app.powerbi.com/view?r=eyJrIjoiODFjN2IwNzMtZTMwMS00MzllLWE0YmQtZTI2ZWM1MWZhYTI1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9',
     linkedin: 'https://www.linkedin.com/posts/ebenco_project4-powerbi-titanic-activity-7182855837646786560-Bgdh?utm_source=share&utm_medium=member_desktop',
     category:'Power BI'
@@ -16,7 +16,7 @@ export const projectData: Project[] = [
     id: 2,
     title: 'Unicorn Companies Analysis',
     description: 'This report analyzes the performance and trends of unicorn companies across various years and countries. We will focus on key metrics such as the count of companies and their valuation.',
-    thumbnailUrl: '/Images/placeholder.svg',
+    thumbnailUrl: '/Images/Unicorn Companies.png',
     link: 'https://app.powerbi.com/view?r=eyJrIjoiNjgwYmYyM2MtMzg4MS00NGY2LTllMTQtYWRiZGZlZGEzYWFjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection',
     linkedin:'https://www.linkedin.com/posts/ebenco_project3-dataanalyst-dataanalysis-activity-7182849462887714816-zaSu?utm_source=share&utm_medium=member_desktop',
     category:'Power BI'
@@ -26,7 +26,7 @@ export const projectData: Project[] = [
     id: 3,
     title: 'Stockholm Cholera Outbreak Analysis',
     description: 'This report provides an analysis of the cholera outbreak, focusing on the distribution of cases and fatalities across different age groups and genders over a 10-month period. Key findings are highlighted, and recommendations are provided to address the outbreak more effectively.',
-    thumbnailUrl: '/Images/placeholder.svg',
+    thumbnailUrl: '/Images/Cholera Outbreak.png',
     link: 'https://app.powerbi.com/view?r=eyJrIjoiMTRlOTc4MDEtOTZlMC00ZmNiLWI3MGYtZmU3MDQyODNiZTY3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9',
     linkedin:'https://www.linkedin.com/posts/ebenco_project5-dataanalyst-excel-activity-7193412450082340864-oJQz?utm_source=share&utm_medium=member_desktop',
     category:'Power BI'
@@ -35,7 +35,7 @@ export const projectData: Project[] = [
     id: 4,
     title: 'COVID-19 Impact on Airport Traffic',
     description: 'This report examines the impact of COVID-19 on airport traffic, focusing on variations in traffic volumes across different days of the week and months of the year. Key findings are presented along with recommendations for managing and optimizing airport operations in the context of ongoing fluctuations in passenger traffic.',
-    thumbnailUrl: '/Images/placeholder.svg',
+    thumbnailUrl: '/Images/COVID19 Impact on Airport Traffic.png',
     link: 'https://app.powerbi.com/view?r=eyJrIjoiMTRlOTc4MDEtOTZlMC00ZmNiLWI3MGYtZmU3MDQyODNiZTY3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9',
     linkedin:'https://www.linkedin.com/posts/ebenco_project6-dataanalyst-excel-activity-7198599238451138561-_C2O?utm_source=share&utm_medium=member_desktop',
     category:'Power BI'

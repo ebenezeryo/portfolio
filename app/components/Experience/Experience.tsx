@@ -7,8 +7,8 @@ const Experience = () => {
   const experiences = [
     {
       id: 1,
-      title: "Senior Data Analyst",
-      company: "Jimeto Bakery.",
+      title: "Senior Data Analyst/Chief Admin",
+      company: "Jimeto Group of Companies.",
       period: "2025 - Present",
       description: [
         "Led data analysis projects resulting in 25% improvement in business efficiency",

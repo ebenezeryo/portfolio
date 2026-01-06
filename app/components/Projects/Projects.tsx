@@ -93,13 +93,15 @@ const Projects: React.FC = () => {
               style={{ animationDelay: `${index * 0.1}s` }}
             >
               <div className="relative overflow-hidden rounded-lg mb-4">
-                <Image
-                  src={project.thumbnailUrl}
-                  alt={project.title}
-                  width={400}
-                  height={250}
-                  className="w-full h-48 object-cover transition-transform duration-300 group-hover:scale-110"
-                />
+                <div className="w-full h-48 bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
+                  <div className="text-center text-white">
+                    <div className="text-lg font-semibold mb-1">Data Analysis</div>
+                    <div className="text-sm opacity-80">Project</div>
+                    <div className="mt-2 px-3 py-1 bg-white/20 rounded-full text-xs">
+                      {project.category}
+                    </div>
+                  </div>
+                </div>
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="absolute top-4 right-4">
                   <span className="px-3 py-1 bg-gradient-to-r from-blue-500 to-purple-600 text-white text-xs rounded-full">
