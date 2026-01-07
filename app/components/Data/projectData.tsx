@@ -61,7 +61,7 @@ export const projectData: Project[] = [
     id: 7,
     title: 'Bitcoin Historical',
     description: 'This analysis explores the historical trends of Bitcoins market data from 2011 to 2021. Key metrics include the Sum of Weighted Price, Sum of Volume (Currency), and Sum of Volume (BTC). The analysis highlights significant trends and fluctuations within this period, providing insights into Bitcoins market behaviour.',
-    thumbnailUrl: '/Images/public/Images/BItcoin Historical.png',
+    thumbnailUrl: '/Images/BItcoin Historical.png',
     link: 'https://app.powerbi.com/view?r=eyJrIjoiMTRlOTc4MDEtOTZlMC00ZmNiLWI3MGYtZmU3MDQyODNiZTY3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9',
     linkedin:'https://www.linkedin.com/posts/ebenco_project9-dataanalyst-powerbi-activity-7198746368876670978-NAWi?utm_source=share&utm_medium=member_desktop',
     category:'Power BI'
@@ -70,7 +70,7 @@ export const projectData: Project[] = [
     id: 8,
     title: 'Mexico Restaurants Rating ',
     description: 'This report analyzes the pricing and ratings of restaurants across various cities in Mexico. The focus is on understanding the distribution of restaurant prices, overall ratings, and the prevalence of smoking policies. Key findings are highlighted, and recommendations are provided for restaurant owners and stakeholders.',
-    thumbnailUrl: '/Images/public/Images/Mexico Restaurant.png',
+    thumbnailUrl: '/Images/Mexico Restaurant.png',
     link: 'https://app.powerbi.com/view?r=eyJrIjoiYTVmYzBhNjQtOGVmNy00ZDI5LThiNGMtZmU1MmYxNWVhYmQ0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9',
     linkedin:'https://www.linkedin.com/posts/ebenco_project10-dataanalyst-powerbi-activity-7199213299370995713-OZ81?utm_source=share&utm_medium=member_desktop',
     category:'Power BI'
@@ -79,7 +79,7 @@ export const projectData: Project[] = [
     id: 9,
     title: 'World Energy Consumption',
     description: 'The analysis delves into global energy consumption trends, particularly focusing on electricity generation and its correlation with GDP. Notable shifts in GDP and energy consumption are observed, providing insights into economic and energy dynamics.',
-    thumbnailUrl: '/Images/public/Images/World Energy Comsumption.png',
+    thumbnailUrl: '/Images/World Energy Comsumption.png',
     link: 'https://app.powerbi.com/view?r=eyJrIjoiNDk3N2JhMDgtZTFiNC00ZGZkLWFjNDctYTA4NGY0NGYyZDBmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9',
     linkedin:'https://www.linkedin.com/posts/ebenco_project11-powerbi-dataanalytics-activity-7199694784175702017-NsPL?utm_source=share&utm_medium=member_desktop',
     category:'Power BI'
@@ -88,7 +88,7 @@ export const projectData: Project[] = [
     id: 10,
     title: 'Airline Flight Delays and Cancellations',
     description: 'This report provides an analysis of airline flight delays and cancellations for the year 2015. The analysis uses data from various airlines and states, cleans and transforms the data for accuracy, and presents insights and recommendations to improve flight operations.',
-    thumbnailUrl: '/Images/public/Images/Airlines Flight Delays.png',
+    thumbnailUrl: '/Images/Airlines Flight Delays.png',
     link: 'https://app.powerbi.com/view?r=eyJrIjoiMTRlOTc4MDEtOTZlMC00ZmNiLWI3MGYtZmU3MDQyODNiZTY3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9',
     linkedin:'https://www.linkedin.com/posts/ebenco_project12-powerbi-dataanalytics-activity-7199779615811190784-Yaiu?utm_source=share&utm_medium=member_desktop',
     category:'Power BI'
@@ -97,7 +97,7 @@ export const projectData: Project[] = [
     id: 11,
     title: 'Interactive Sales Dashboard',
     description: 'The sales analysis dashboard provides a quick view of sales performance across various categories including region, customer, item, and salesperson. It highlights top performers and reveals trends in monthly and daily revenue. This information can be used by sales managers and business analysts to identify areas for improvement and make data-driven decisions.',
-    thumbnailUrl: '/Images/public/Images/Interactive Sales Dashboard.png',
+    thumbnailUrl: '/Images/Interactive Sales Dashboard.png',
     link: '',
     linkedin:'https://www.linkedin.com/posts/ebenco_project13-salesdashboard-dataanalysis-activity-7199891294796546050-UcvN?utm_source=share&utm_medium=member_desktop',
     category:'Excel'
@@ -116,7 +116,7 @@ export const projectData: Project[] = [
     id: 13,
     title: 'Global Shark Attacks Analysis',
     description: 'This report analyzes global shark attack incidents, focusing on the distribution of attacks by shark species, the trend of attack cases over time, and monthly variations. Key findings are presented along with recommendations to enhance public safety and awareness.',
-    thumbnailUrl: '/Images/public/Images/Shark Attacks.png',
+    thumbnailUrl: '/Images/Shark Attacks.png',
     link: 'https://app.powerbi.com/view?r=eyJrIjoiZjY3MmUxODgtNmY5Yy00MTY5LWE4NDEtOWQwZjdiNzczYTAxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9',
     linkedin:'https://www.linkedin.com/posts/ebenco_project14-sharkattackanalysis-tigershark-activity-7200165557311049728-at5I?utm_source=share&utm_medium=member_desktop',
     category:'Power BI'
@@ -125,7 +125,7 @@ export const projectData: Project[] = [
     id: 14,
     title: 'COVID-19 NCDC Report Analysis',
     description: 'This report provides a high-level analysis of COVID-19 cases in Nigeria, based on data from the Nigeria Centre for Disease Control and Prevention (NCDC). ',
-    thumbnailUrl: '/Images/public/Images/COVID19 NCDC.png',
+    thumbnailUrl: '/Images/COVID19 NCDC.png',
     link: 'https://app.powerbi.com/view?r=eyJrIjoiMjNjY2U3MTItZmIwNi00MDJmLWFlOTgtYjE1ZGQ4ZTdjOWMzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9',
     linkedin:'https://www.linkedin.com/posts/ebenco_project15-project15-quantumanalyticsng-activity-7200581629726076931-w6Td?utm_source=share&utm_medium=member_desktop',
     category:'Power BI'
