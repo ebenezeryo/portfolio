@@ -57,7 +57,7 @@ function Footer() {
             <h3 className="text-xl font-bold mb-4 gradient__text">Connect With Me</h3>
             <div className="flex space-x-4 mb-4">
               <Link 
-                href="https://github.com/ebenco7" 
+                href="https://github.com/ebenezeryo" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="w-12 h-12 bg-gray-800 rounded-lg flex items-center justify-center text-gray-300 hover:text-white hover:bg-gray-700 transition-all duration-300 hover-lift"

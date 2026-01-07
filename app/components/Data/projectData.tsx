@@ -1,6 +1,5 @@
 // Data/projectData.ts
 import { Project } from '@/public/types';
-import { Linkedin } from 'lucide-react';
 
 export const projectData: Project[] = [
     {
@@ -53,7 +52,7 @@ export const projectData: Project[] = [
     id: 6,
     title: 'Historical Stock Price',
     description: 'This report analyzes the historical stock prices and trading volumes of major companies over a specified period. The focus is on comparing trading volumes, examining trends in adjusted closing prices, and providing recommendations for investors based on these insights.',
-    thumbnailUrl: '/Images/public/Images/Historical Stock.png',
+    thumbnailUrl: '/Images/Historical Stock.png',
     link: 'https://app.powerbi.com/view?r=eyJrIjoiNzQxYTc0NWEtODA4Ny00ZWZlLThmODYtNWMzN2JiOTIxN2ZhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9',
     linkedin:'https://www.linkedin.com/posts/ebenco_project8-dataanalyst-excel-activity-7198665533334917120-Q-2o?utm_source=share&utm_medium=member_desktop',
     category:'Power BI'

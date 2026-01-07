@@ -65,7 +65,7 @@ function Header() {
           <div className="hidden lg:flex items-center space-x-4">
             <div className="flex space-x-3">
               <Link 
-                href="https://github.com/ebenco7" 
+                href="https://github.com/ebenezeryo" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-gray-400 hover:text-white transition-colors duration-300 hover-lift"
@@ -120,7 +120,7 @@ function Header() {
               
               <div className="flex space-x-4 pt-4 border-t border-gray-800">
                 <Link 
-                  href="https://github.com/ebenco7" 
+                  href="https://github.com/ebenezeryo" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="text-gray-400 hover:text-white transition-colors duration-300"
