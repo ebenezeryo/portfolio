@@ -167,12 +167,21 @@ export const projectData: Project[] = [
   // },
   {
     id: 18,
-    title: 'E-Commerce Full Stack Application',
-    description: 'A complete e-commerce platform built with modern web technologies. Features include user authentication, product catalog, shopping cart, payment integration, and admin dashboard. Built with React, Node.js, Express, and MongoDB.',
-    thumbnailUrl: '/Images/fullstack-placeholder.svg',
-    link: 'https://your-ecommerce-app.vercel.app',
-    linkedin: 'https://www.linkedin.com/posts/ebenco_fullstack-react-nodejs-activity-1234567890-abcd',
-    category: 'Full Stack'
+    title: 'Spotify Clone',
+    description: 'A frontend clone of Spotify music streaming application. Built with modern web technologies including React and Next.js with a responsive design. Features include music player interface, playlist management, and dynamic content display.',
+    thumbnailUrl: '/Images/spotify.png',
+    link: 'https://spotify-clone-navy-phi-15.vercel.app/',
+    linkedin: 'https://www.linkedin.com/posts/ebenco_frontend-react-nextjs-activity-1234567890-abcd',
+    category: 'Frontend'
+  },
+  {
+    id: 19,
+    title: 'Walmart Clone',
+    description: 'A frontend e-commerce clone of Walmart. Built with modern web technologies featuring a complete product catalog, shopping cart interface, and responsive design. Showcases best practices in frontend development with React and Next.js.',
+    thumbnailUrl: '/Images/walmart.png',
+    link: 'https://walmart-clone2.vercel.app/',
+    linkedin: 'https://www.linkedin.com/posts/ebenco_frontend-react-ecommerce-activity-1234567890-abcd',
+    category: 'Frontend'
   },
   // Add more projects here
 ];
