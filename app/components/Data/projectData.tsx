@@ -134,7 +134,7 @@ export const projectData: Project[] = [
     id: 15,
     title: 'WHO COVID-19 GLOBAL REPORT ANALYSIS',
     description: 'The World Health Organization (WHO) COVID19 report presents a detailed analysis of COVID19 cases and deaths across different regions, countries, years, and months. This analysis highlights the critical areas of focus and the need for continued vigilance and strategic public health efforts to combat the COVID19 pandemic effectively.',
-    thumbnailUrl: '/Images/public/Images/WHO.png',
+    thumbnailUrl: '/Images/WHO.png',
     link: 'https://app.powerbi.com/view?r=eyJrIjoiMThmMGVlYWQtYjA0OC00MTE2LTk0MzktMTA4YjNhNmU4MDRhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9',
     linkedin:'https://www.linkedin.com/posts/ebenco_project16-covid19-who-activity-7200901122025259009-aN3S?utm_source=share&utm_medium=member_desktop',
     category:'Power BI'
@@ -143,7 +143,7 @@ export const projectData: Project[] = [
     id: 16,
     title: 'NYC Taxi Trips Analysis',
     description: 'This analysis examines NYC taxi trips from 2017 to 2020, focusing on various trip attributes and patterns over this period. The data was processed using advanced query techniques to filter and transform the dataset, ensuring relevant and accurate insights.',
-    thumbnailUrl: '/Images/public/Images/NYC Taxi Trips Analysis.png',
+    thumbnailUrl: '/Images/NYC Taxi Trips Analysis.png',
     link: 'https://app.powerbi.com/view?r=eyJrIjoiMmM2NzljMzEtZWVmOC00ZjhlLTg2MTUtYmQ1YzM5MzhkYWM3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9',
     linkedin:'https://www.linkedin.com/posts/ebenco_project17-finalproject-project17-activity-7201328539961327616-zNkI?utm_source=share&utm_medium=member_desktop',
     category:'Power BI'
@@ -151,7 +151,7 @@ export const projectData: Project[] = [
     id: 17,
     title: 'Sales Analysis for Godswill Enterprise',
     description: 'The Godswill Enterprise sales dashboard provides a snapshot of their performance. It shows monthly sales trends with July being the highest. It also highlights Fall as the most profitable season and breaks down profits by age group (Adults highest) and gender (Males contribute more).',
-    thumbnailUrl: '/Images/public/Images/Sales Analysis for WixSin Company.png',
+    thumbnailUrl: '/Images/Sales Analysis for Godswill Enterprise.png',
     link: '',
     linkedin:'https://www.linkedin.com/posts/ebenco_dataanalyst-sql-postgres-activity-7177992099752001537-016X?utm_source=share&utm_medium=member_desktop',
     category:'SQL'
