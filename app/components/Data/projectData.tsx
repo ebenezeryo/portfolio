@@ -167,3 +167,13 @@ export const projectData: Project[] = [
   // },
   // Add more projects here
 ];
+  {
+    id: 18,
+    title: 'E-Commerce Full Stack Application',
+    description: 'A complete e-commerce platform built with modern web technologies. Features include user authentication, product catalog, shopping cart, payment integration, and admin dashboard. Built with React, Node.js, Express, and MongoDB.',
+    thumbnailUrl: '/Images/fullstack-placeholder.svg',
+    link: 'https://your-ecommerce-app.vercel.app',
+    linkedin: 'https://www.linkedin.com/posts/ebenco_fullstack-react-nodejs-activity-1234567890-abcd',
+    category: 'Full Stack'
+  },
+  // Add more Full Stack projects here

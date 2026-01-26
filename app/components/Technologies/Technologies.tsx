@@ -2,7 +2,7 @@ import React from 'react';
 import { SiPowerbi, SiMicrosoftexcel,SiTableau, SiTypescript } from "react-icons/si";
 import { BiLogoPostgresql } from "react-icons/bi";
 import { IoLogoPython } from "react-icons/io5";
-import { FaNodeJs, FaReact, FaHtml5 } from "react-icons/fa";
+import { FaNodeJs, FaReact, FaHtml5, FaCss3Alt } from "react-icons/fa";
 import { RiTailwindCssFill } from "react-icons/ri";
 
 function Technologies() {
@@ -17,6 +17,7 @@ function Technologies() {
     { name: "Tailwind CSS", icon: RiTailwindCssFill, category: "Frontend", color: "text-teal-400" },
     { name: "TypeScript", icon: SiTypescript, category: "Programming", color: "text-blue-500" },
     { name: "HTML5", icon: FaHtml5, category: "Frontend", color: "text-orange-500" },
+    { name: "CSS3", icon: FaCss3Alt, category: "Frontend", color: "text-blue-400" },
   ];
 
   return (

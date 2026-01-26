@@ -11,7 +11,7 @@ const Projects: React.FC = () => {
   const [hoveredButton, setHoveredButton] = useState<number | null>(null);
 
   // Select specific projects by IDs when no category is selected
-  const defaultProjects = projectData.filter((project) => [1, 3, 6].includes(project.id));
+  const defaultProjects = projectData.filter((project) => [1, 3, 6, 18].includes(project.id));
   
   // Filter projects based on selected category
   const filteredProjects = selectedCategory
@@ -82,6 +82,16 @@ const Projects: React.FC = () => {
               }`}
             >
               SQL
+            </button>
+            <button
+              onClick={() => setSelectedCategory('Full Stack')}
+              className={`px-6 py-2 rounded-lg transition-all duration-300 ${
+                selectedCategory === 'Full Stack' 
+                  ? 'bg-gradient-to-r from-blue-500 to-purple-600 text-white' 
+                  : 'text-gray-300 hover:text-white hover:bg-gray-700'
+              }`}
+            >
+              Full Stack
             </button>
           </div>
         </div>
