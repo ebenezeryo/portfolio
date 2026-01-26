@@ -165,8 +165,6 @@ export const projectData: Project[] = [
   //   linkedin:'https://www.linkedin.com/posts/ebenco_1project-dataanalytics-datascience-activity-7173748294882332672-fL13?utm_source=share&utm_medium=member_desktop',
   //   category:''
   // },
-  // Add more projects here
-];
   {
     id: 18,
     title: 'E-Commerce Full Stack Application',
@@ -176,4 +174,5 @@ export const projectData: Project[] = [
     linkedin: 'https://www.linkedin.com/posts/ebenco_fullstack-react-nodejs-activity-1234567890-abcd',
     category: 'Full Stack'
   },
-  // Add more Full Stack projects here
+  // Add more projects here
+];
