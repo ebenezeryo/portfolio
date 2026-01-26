@@ -171,7 +171,7 @@ export const projectData: Project[] = [
     description: 'A frontend clone of Spotify music streaming application. Built with modern web technologies including React and Next.js with a responsive design. Features include music player interface, playlist management, and dynamic content display.',
     thumbnailUrl: '/Images/spotify.png',
     link: 'https://spotify-clone-navy-phi-15.vercel.app/',
-    linkedin: 'https://www.linkedin.com/posts/ebenco_frontend-react-nextjs-activity-1234567890-abcd',
+    linkedin: '',
     category: 'Frontend'
   },
   {
@@ -180,7 +180,7 @@ export const projectData: Project[] = [
     description: 'A frontend e-commerce clone of Walmart. Built with modern web technologies featuring a complete product catalog, shopping cart interface, and responsive design. Showcases best practices in frontend development with React and Next.js.',
     thumbnailUrl: '/Images/walmart.png',
     link: 'https://walmart-clone2.vercel.app/',
-    linkedin: 'https://www.linkedin.com/posts/ebenco_frontend-react-ecommerce-activity-1234567890-abcd',
+    linkedin: '',
     category: 'Frontend'
   },
   // Add more projects here
