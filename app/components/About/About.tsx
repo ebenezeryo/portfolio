@@ -22,9 +22,7 @@ const About = () => {
           <div className="animate-fadeInUp">
             <h3 className="text-2xl font-semibold mb-6">Data Analyst & Frontend Developer</h3>
             <p className="text-gray-300 mb-6 leading-relaxed">
-              I am a passionate Data Analyst with expertise in transforming complex data into actionable business insights. 
-              With a strong background in data visualization, statistical analysis, and business intelligence, I help 
-              organizations make data-driven decisions that drive growth and efficiency.
+              Transforming complex data into clear, actionable business insights and designing user‑centric digital solutions. Skilled in creating visually compelling dashboards and reports that drive strategic decisions and business growth. Passionate about data storytelling, blending analytical expertise with frontend development to deliver impactful outcomes for organizations.
             </p>
             <p className="text-gray-300 mb-6 leading-relaxed">
               My technical skills span across multiple platforms including Power BI, Excel, SQL, Python, and modern 
