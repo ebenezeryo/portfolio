@@ -183,5 +183,23 @@ export const projectData: Project[] = [
     linkedin: '',
     category: 'Frontend'
   },
+  {
+    id: 20,
+    title: 'Memorial Web App',
+    description: 'A memorial website dedicated to celebrating the life of Snr. Apostolic Mother Florence Modupe Akintunde. Features include cherished memories gallery, event details (wake service, interment, thanksgiving), RSVP functionality, and farewell messages. Built with modern web technologies for a respectful and user-friendly experience.',
+    thumbnailUrl: '/Images/memorial.png',
+    link: 'https://memorial-web-app.vercel.app/',
+    linkedin: '',
+    category: 'Frontend'
+  },
+  {
+    id: 21,
+    title: 'CBT Examination System',
+    description: 'A Computer-Based Testing (CBT) examination platform for Blooming Greens High School. Features student login functionality, admin dashboard, and examination management system. Built with Next.js for a secure and efficient testing experience.',
+    thumbnailUrl: '/Images/cbtapp.png',
+    link: 'https://bghscbtapp.vercel.app/',
+    linkedin: '',
+    category: 'Frontend'
+  },
   // Add more projects here
 ];
